@@ -10,5 +10,5 @@ Description: e.g., Demonstrate command of the conventions of standard English gr
 Task
 
 Using NLP and ML to build a model​
-Input: any texts and a number N​
-Output: the closest N number of CCSS ids to the input texts ranked by the closeness
+#Input: any texts and a number N​
+#Output: the closest N number of CCSS ids to the input texts ranked by the closeness
